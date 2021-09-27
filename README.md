@@ -94,6 +94,6 @@ Using the tuned parameters, the final random forest classifier was built. Then, 
 
 ## Proof of submission
 
-![proof of submission](/Proof_of_submission.png)
+![proof of submission](Proof_of_submission.PNG)
 
 
