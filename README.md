@@ -92,6 +92,8 @@ Max_depth = 50
 
 Using the tuned parameters, the final random forest classifier was built. Then, the trained model was used to make predictions on the test dataset. The model managed to score 0.6453 on the Driven Data platform. 
 
+## Proof of submission
 
+![proof of submission](/Proof_of_submission.png)
 
 
